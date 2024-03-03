@@ -27,3 +27,10 @@ setup.log
 
 # Local OPAM switch
 _opam/
+
+# arith
+arith/f
+arith/lexer.ml
+arith/parser.ml
+arith/parser.mli
+arith/parser.output
