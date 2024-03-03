@@ -29,8 +29,8 @@ setup.log
 _opam/
 
 # arith
-arith/f
-arith/lexer.ml
-arith/parser.ml
-arith/parser.mli
-arith/parser.output
+f
+lexer.ml
+parser.ml
+parser.mli
+parser.output
